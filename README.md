@@ -1,7 +1,7 @@
 <!--
   Profile README for github.com/ITC2022  (English)
   Keep this file (README.md) together with README.de.md in the ITC2022 repo.
-  Stats: github-stats-extended.vercel.app  |  Streak: github-readme-streak-stats
+  Stats & repo cards: github-stats-extended.vercel.app  |  Streak: github-readme-streak-stats
   Accent colour: #6C63FF  |  Card theme: tokyonight
 -->
 
@@ -11,16 +11,13 @@
 <h3 align="center">Full-Stack Developer · Berlin</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=6C63FF&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;Vue+3+%7C+REST+APIs+%7C+Docker;From+operations+to+clean+code" alt="roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=6C63FF&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;Vue+3+%7C+Symfony+%7C+REST+APIs;I+build+clean%2C+working+web+apps" alt="roles" />
 </p>
 
 <p align="center">
   <a href="#about">About</a> &nbsp;·&nbsp;
   <a href="#tech-stack">Tech Stack</a> &nbsp;·&nbsp;
-  <a href="#career-path">Career Path</a> &nbsp;·&nbsp;
-  <a href="#experience">Experience</a> &nbsp;·&nbsp;
-  <a href="#education">Education</a> &nbsp;·&nbsp;
-  <a href="#languages">Languages</a> &nbsp;·&nbsp;
+  <a href="#projects">Projects</a> &nbsp;·&nbsp;
   <a href="#github-stats">Stats</a> &nbsp;·&nbsp;
   <a href="#contact">Contact</a>
 </p>
@@ -29,7 +26,7 @@
 
 ## About
 
-After more than a decade in operations and customer-facing roles, I made a deliberate move into software development — bringing the same ownership and attention to detail I applied to hospital logistics and e-commerce to writing clean, working code. Most recently at **Fraunhofer IPK** I contributed to production code within an agile team, building with **Vue 3, REST APIs, and Docker**. I enjoy the parts of development that reward patience, from debugging to documentation, and I'm looking for a team where I can keep growing while bringing that operational mindset with me.
+Full-Stack Developer based in Berlin. I build clean, working web applications — mostly **Vue 3** on the frontend with **PHP / Symfony** and **REST APIs** on the backend, deployed using **Docker**. I like the parts of development that reward patience: debugging, documentation, and shipping features end to end.
 
 ---
 
@@ -102,51 +99,31 @@ mindmap
 
 ---
 
-## Career Path
+## Projects
 
-```mermaid
-flowchart LR
-    A["Hospitality & Operations<br/>2013-2021"]:::past --> B["E-Commerce<br/>2021-2023"]:::past --> C["Career Change<br/>2023-2024"]:::mid --> D["IHK Dev Training<br/>2024-2026"]:::mid --> E["Full-Stack Developer<br/>Fraunhofer IPK<br/>2025-2026"]:::now
-    classDef past fill:#8B949E,stroke:#6e7681,color:#ffffff
-    classDef mid fill:#1F6FEB,stroke:#0d47a1,color:#ffffff
-    classDef now fill:#6C63FF,stroke:#3d38a8,color:#ffffff
-```
+- **BooksStore** — a bookstore management app (PHP).
+- **PflanzOra** — a plants CRUD application (PHP).
+- **SportKurse** — a sports-courses management app (PHP).
+- **Pokémon Trainers** — a Pokémon trainers app (PHP).
+- **WaveCast** — a frontend web project (CSS).
 
----
-
-## Experience
-
-| Period | Role | Company · Location |
-| :--- | :--- | :--- |
-| 2025–2026 | Full-Stack Developer (Internship) | Fraunhofer IPK · Berlin |
-| 2024–2026 | IT Specialist – Application Development (IHK) | BBQ GmbH · Berlin |
-| 2023–2024 | Career Change & Retraining Prep | Grone & Comcave · Berlin |
-| 2023 | Sales Manager | Fenchem Biochemie GmbH · Cologne |
-| 2021–2023 | E-Commerce Manager | Warnke Marketing Services · Cologne |
-| 2017–2021 | Chef & Kitchen Operations | St. Franziskus-Hospital · Cologne |
-| 2013–2017 | Receptionist | Hotel Timone · Porto San Giorgio, IT |
-
----
-
-## Education
-
-| Qualification | Institution | Year |
-| :--- | :--- | :--- |
-| Certified Software Developer (IHK) | BBQ GmbH, Berlin | 2024–2026 |
-| E-Commerce Manager Certification (IHK) | Cologne | 2022 |
-| Digital Marketing Fundamentals | Google Digital Training | 2022 |
-| Technical Secondary School Diploma | Istituto Luigi Einaudi, Italy | 2015 |
-
----
-
-## Languages
-
-![Italian](https://img.shields.io/badge/Italian-Native-2ea043?style=flat-square)
-![German](https://img.shields.io/badge/German-Fluent-3fb950?style=flat-square)
-![English](https://img.shields.io/badge/English-Fluent-3fb950?style=flat-square)
-![Arabic](https://img.shields.io/badge/Arabic-Good-d29922?style=flat-square)
-![Spanish](https://img.shields.io/badge/Spanish-Working_Knowledge-8b949e?style=flat-square)
-![French](https://img.shields.io/badge/French-Working_Knowledge-8b949e?style=flat-square)
+<p align="center">
+  <a href="https://github.com/ITC2022/BooksStore">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ITC2022&repo=BooksStore&theme=tokyonight" alt="BooksStore" />
+  </a>
+  <a href="https://github.com/ITC2022/PflanzOra">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ITC2022&repo=PflanzOra&theme=tokyonight" alt="PflanzOra" />
+  </a>
+  <a href="https://github.com/ITC2022/SportKurse">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ITC2022&repo=SportKurse&theme=tokyonight" alt="SportKurse" />
+  </a>
+  <a href="https://github.com/ITC2022/Pok-mon-Trainers">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ITC2022&repo=Pok-mon-Trainers&theme=tokyonight" alt="Pokémon Trainers" />
+  </a>
+  <a href="https://github.com/ITC2022/WaveCast">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ITC2022&repo=WaveCast&theme=tokyonight" alt="WaveCast" />
+  </a>
+</p>
 
 ---
 
