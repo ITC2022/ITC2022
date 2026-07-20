@@ -101,28 +101,12 @@ mindmap
 
 ## Projekte
 
-- **BooksStore** — App zur Buchladen-Verwaltung (PHP).
-- **PflanzOra** — Pflanzen-CRUD-Anwendung (PHP).
-- **SportKurse** — App zur Verwaltung von Sportkursen (PHP).
-- **Pokémon Trainers** — Pokémon-Trainer-App (PHP).
-- **WaveCast** — Frontend-Webprojekt (CSS).
-
 <p align="center">
-  <a href="https://github.com/ITC2022/BooksStore">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ITC2022&repo=BooksStore&theme=tokyonight" alt="BooksStore" />
-  </a>
-  <a href="https://github.com/ITC2022/PflanzOra">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ITC2022&repo=PflanzOra&theme=tokyonight" alt="PflanzOra" />
-  </a>
-  <a href="https://github.com/ITC2022/SportKurse">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ITC2022&repo=SportKurse&theme=tokyonight" alt="SportKurse" />
-  </a>
-  <a href="https://github.com/ITC2022/Pok-mon-Trainers">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ITC2022&repo=Pok-mon-Trainers&theme=tokyonight" alt="Pokémon Trainers" />
-  </a>
-  <a href="https://github.com/ITC2022/WaveCast">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ITC2022&repo=WaveCast&theme=tokyonight" alt="WaveCast" />
-  </a>
+  <a href="https://github.com/ITC2022/BooksStore"><img src="https://img.shields.io/badge/BooksStore-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="BooksStore" /></a>
+  <a href="https://github.com/ITC2022/PflanzOra"><img src="https://img.shields.io/badge/PflanzOra-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="PflanzOra" /></a>
+  <a href="https://github.com/ITC2022/SportKurse"><img src="https://img.shields.io/badge/SportKurse-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="SportKurse" /></a>
+  <a href="https://github.com/ITC2022/Pok-mon-Trainers"><img src="https://img.shields.io/badge/Pokemon%20Trainers-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Pokemon Trainers" /></a>
+  <a href="https://github.com/ITC2022/WaveCast"><img src="https://img.shields.io/badge/WaveCast-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="WaveCast" /></a>
 </p>
 
 ---
