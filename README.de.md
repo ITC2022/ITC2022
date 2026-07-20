@@ -1,7 +1,7 @@
 <!--
   Profil-README für github.com/ITC2022  (Deutsch)
   Diese Datei (README.de.md) gehört mit README.md ins ITC2022-Repo.
-  Statistiken: github-stats-extended.vercel.app  |  Streak: github-readme-streak-stats
+  Statistiken & Repo-Karten: github-stats-extended.vercel.app  |  Streak: github-readme-streak-stats
   Akzentfarbe: #6C63FF  |  Karten-Theme: tokyonight
 -->
 
@@ -11,16 +11,13 @@
 <h3 align="center">Full-Stack-Entwickler · Berlin</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=6C63FF&center=true&vCenter=true&width=560&lines=Full-Stack-Entwickler;Vue+3+%7C+REST-APIs+%7C+Docker;Vom+Betrieb+zum+sauberen+Code" alt="Rollen" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=6C63FF&center=true&vCenter=true&width=560&lines=Full-Stack-Entwickler;Vue+3+%7C+Symfony+%7C+REST-APIs;Ich+baue+saubere+Web-Apps" alt="Rollen" />
 </p>
 
 <p align="center">
   <a href="#über-mich">Über mich</a> &nbsp;·&nbsp;
   <a href="#tech-stack">Tech-Stack</a> &nbsp;·&nbsp;
-  <a href="#werdegang">Werdegang</a> &nbsp;·&nbsp;
-  <a href="#berufserfahrung">Erfahrung</a> &nbsp;·&nbsp;
-  <a href="#ausbildung">Ausbildung</a> &nbsp;·&nbsp;
-  <a href="#sprachen">Sprachen</a> &nbsp;·&nbsp;
+  <a href="#projekte">Projekte</a> &nbsp;·&nbsp;
   <a href="#github-statistiken">Statistiken</a> &nbsp;·&nbsp;
   <a href="#kontakt">Kontakt</a>
 </p>
@@ -29,7 +26,7 @@
 
 ## Über mich
 
-Nach rund zehn Jahren in Betriebsabläufen und Kundenbetreuung habe ich mich bewusst für die Umschulung zum Softwareentwickler entschieden. Dieselbe Eigenverantwortung und Detailgenauigkeit aus Krankenhauslogistik und E-Commerce bringe ich in sauberen Code und lauffähige Features ein — zuletzt bei **Fraunhofer IPK** mit **Vue 3, REST-APIs und Docker**. Ich mag die Teile der Entwicklung, die Geduld belohnen, vom Debugging bis zur Dokumentation, und suche ein Team, in dem ich weiter wachsen kann.
+Full-Stack-Entwickler aus Berlin. Ich baue saubere, lauffähige Web-Anwendungen — meist mit **Vue 3** im Frontend sowie **PHP / Symfony** und **REST-APIs** im Backend, deployt mit **Docker**. Ich mag die Teile der Entwicklung, die Geduld belohnen: Debugging, Dokumentation und das End-to-End-Ausliefern von Features.
 
 ---
 
@@ -102,51 +99,31 @@ mindmap
 
 ---
 
-## Werdegang
+## Projekte
 
-```mermaid
-flowchart LR
-    A["Betrieb & Kundenkontakt<br/>2013-2021"]:::past --> B["E-Commerce<br/>2021-2023"]:::past --> C["Neuorientierung<br/>2023-2024"]:::mid --> D["IHK-Umschulung<br/>2024-2026"]:::mid --> E["Full-Stack-Entwickler<br/>Fraunhofer IPK<br/>2025-2026"]:::now
-    classDef past fill:#8B949E,stroke:#6e7681,color:#ffffff
-    classDef mid fill:#1F6FEB,stroke:#0d47a1,color:#ffffff
-    classDef now fill:#6C63FF,stroke:#3d38a8,color:#ffffff
-```
+- **BooksStore** — App zur Buchladen-Verwaltung (PHP).
+- **PflanzOra** — Pflanzen-CRUD-Anwendung (PHP).
+- **SportKurse** — App zur Verwaltung von Sportkursen (PHP).
+- **Pokémon Trainers** — Pokémon-Trainer-App (PHP).
+- **WaveCast** — Frontend-Webprojekt (CSS).
 
----
-
-## Berufserfahrung
-
-| Zeitraum | Rolle | Unternehmen · Ort |
-| :--- | :--- | :--- |
-| 2025–2026 | Full-Stack-Entwickler (Praktikum) | Fraunhofer IPK · Berlin |
-| 2024–2026 | Fachinformatiker Anwendungsentwicklung (IHK) | BBQ GmbH · Berlin |
-| 2023–2024 | Neuorientierung & Umschulungsvorbereitung | Grone & Comcave · Berlin |
-| 2023 | Sales Manager | Fenchem Biochemie GmbH · Köln |
-| 2021–2023 | E-Commerce Manager | Warnke Marketing Services · Köln |
-| 2017–2021 | Koch & Küchenorganisation | St. Franziskus-Krankenhaus · Köln |
-| 2013–2017 | Rezeptionist | Hotel Timone · Porto San Giorgio, IT |
-
----
-
-## Ausbildung
-
-| Abschluss | Institution | Jahr |
-| :--- | :--- | :--- |
-| Fachinformatiker Anwendungsentwicklung (IHK) | BBQ GmbH, Berlin | 2024–2026 |
-| E-Commerce Manager Zertifizierung (IHK) | Köln | 2022 |
-| Grundlagen des digitalen Marketings (Google) | Google Digital Training | 2022 |
-| Fachabitur | Istituto Luigi Einaudi, Italien | 2015 |
-
----
-
-## Sprachen
-
-![Italienisch](https://img.shields.io/badge/Italienisch-Muttersprache-2ea043?style=flat-square)
-![Deutsch](https://img.shields.io/badge/Deutsch-Fließend-3fb950?style=flat-square)
-![Englisch](https://img.shields.io/badge/Englisch-Fließend-3fb950?style=flat-square)
-![Arabisch](https://img.shields.io/badge/Arabisch-Gute_Kenntnisse-d29922?style=flat-square)
-![Spanisch](https://img.shields.io/badge/Spanisch-Gute_Kenntnisse-d29922?style=flat-square)
-![Französisch](https://img.shields.io/badge/Französisch-Gute_Kenntnisse-d29922?style=flat-square)
+<p align="center">
+  <a href="https://github.com/ITC2022/BooksStore">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ITC2022&repo=BooksStore&theme=tokyonight" alt="BooksStore" />
+  </a>
+  <a href="https://github.com/ITC2022/PflanzOra">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ITC2022&repo=PflanzOra&theme=tokyonight" alt="PflanzOra" />
+  </a>
+  <a href="https://github.com/ITC2022/SportKurse">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ITC2022&repo=SportKurse&theme=tokyonight" alt="SportKurse" />
+  </a>
+  <a href="https://github.com/ITC2022/Pok-mon-Trainers">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ITC2022&repo=Pok-mon-Trainers&theme=tokyonight" alt="Pokémon Trainers" />
+  </a>
+  <a href="https://github.com/ITC2022/WaveCast">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=ITC2022&repo=WaveCast&theme=tokyonight" alt="WaveCast" />
+  </a>
+</p>
 
 ---
 
