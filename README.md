@@ -118,9 +118,6 @@ mindmap
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ITC2022&layout=compact&theme=tokyonight&langs_count=8" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ITC2022&theme=tokyonight&hide_border=true" alt="Contribution streak" />
-</p>
 
 ---
 
