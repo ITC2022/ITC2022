@@ -102,6 +102,7 @@ mindmap
 ## Projects
 
 <p align="center">
+   <a href="https://github.com/ITC2022/GraphBot"><img src="https://img.shields.io/badge/GraphBot-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="GraphBot" /></a>
   <a href="https://github.com/ITC2022/BooksStore"><img src="https://img.shields.io/badge/BooksStore-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="BooksStore" /></a>
   <a href="https://github.com/ITC2022/PflanzOra"><img src="https://img.shields.io/badge/PflanzOra-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="PflanzOra" /></a>
   <a href="https://github.com/ITC2022/SportKurse"><img src="https://img.shields.io/badge/SportKurse-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="SportKurse" /></a>
