@@ -26,7 +26,7 @@
 
 ## About
 
-Full-Stack Developer based in Berlin. I build clean, working web applications — mostly **Vue 3** on the frontend with **PHP / Symfony** and **REST APIs** on the backend, deployed using **Docker**. I like the parts of development that reward patience: debugging, documentation, and shipping features end to end.
+Full-Stack Developer based in Berlin. I build clean, working web applications, mostly **Vue 3** on the frontend with **PHP / Symfony** and **REST APIs** on the backend, deployed using **Docker**. I like the parts of development that reward patience: debugging, documentation, and shipping features end to end.
 
 ---
 
